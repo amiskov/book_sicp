@@ -1,5 +1,6 @@
 # Книга и курс Structure and Interpretation of Computer Programs
 <img src="cover.jpg" alt="" height="300">
+
 [Книга](https://mitpress.mit.edu/sicp/full-text/book/book.html) на сайте MIT. Есть где-то в сети хороший русский перевод.
 
 ## Оригинальные видеолекции на английском
