@@ -7,7 +7,7 @@
 * [Курс из Беркли](https://www.youtube.com/playlist?list=PL3E89002AA9B9879E), именно его [рекомендуют](https://teachyourselfcs.com/#programming).
 * [Структура и интерпретация компьютерных программ](https://ru.hexlet.io/courses/sicp) на Хекслете по-русски.
 
-## Решение упражнений
+## Проверить решение упражнений
 * http://sicp.sergeykhenkin.com/sicp-exercise-solutions/
 * http://www.billthelizard.com/search/label/sicp
 * http://www.billthelizard.com/2009/10/sicp-challenge.html — тут план чувака по изучению SICP.
